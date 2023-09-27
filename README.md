@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @koome-dev
-- 👀 I’m interested in building for automation
+- 👋 Hi, I’m Koome Derrick
+- 👀 I’m interested in Data Science and Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ... I'll think of something soon
 
