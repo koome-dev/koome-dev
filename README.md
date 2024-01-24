@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Koome Derrick
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on ... I'll think of something soon
+- 👀 I’m a Data Scientist
+- 🌱 I’m currently learning Machine Learning, SQL, PowerBI and Deep Learning
+- 💞️ I’m looking to collaborate on Python, Machine Learning and Deep Learning projects
 
 
 <!---
