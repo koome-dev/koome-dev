@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Koome Derrick
-- 👀 I’m a Data Scientist
-- 🌱 I’m currently learning Machine Learning, SQL, PowerBI and Deep Learning
-- 💞️ I’m looking to collaborate on Python, Machine Learning and Deep Learning projects
+- 👀 I’m a Geospatial Engineer with data science skills so I guess you can call me a Geospatial Data Scientist
+- 🌱 I’m currently exploring projects that combine geospatial knowledge with data science
+- 💞️ I’m looking to collaborate on Python, Geospatial Analysis, Machine Learning and Deep Learning projects
 
 
 <!---
